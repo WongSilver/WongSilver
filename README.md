@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip&style=flat-square" alt="skalskip" /> </p>
 
+<h1 align="center">Hi 👋, I'm WongSilver</h1>
+<h3 align="center">Java Engineer</h3>
+
+<br/>
 <!--
-**WongSilver/WongSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+    <a href="https://github.com/WongSilver">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://twitter.com/skalskip92">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/linkedin.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://kaggle.com/skalskip">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/kaggle.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://medium.com/@piotr.skalski92">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="4%" />
+    </a>
+</div>
 -->
+<br/>
+
+## <div align="center">open source</div>
