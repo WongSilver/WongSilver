@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skalskip&style=flat-square" alt="skalskip" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WongSilver&color=blueviolet" alt="WongSilver" /> </p>
 
 <h1 align="center">Hi 👋, I'm WongSilver</h1>
 <h3 align="center">Java Engineer</h3>
