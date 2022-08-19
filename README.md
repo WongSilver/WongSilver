@@ -11,13 +11,15 @@
     <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/transparent.png" width="3%"/>
     <a href="https://weibo.com/u/5517189701">
         <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/weibo.png" width="4%"/>
+    </a>    
+    <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/transparent.png" width="3%"/>
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=snk_52R6kyUqcoBDCqGvL3tSB7DJjSxZ&noverify=0&personal_qrcode_source=3">
+        <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/weibo.png" width="4%"/>
     </a>
 <!-- 
    
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
-    <a href="https://twitter.com/skalskip92">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="4%"/>
-    </a>
+
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
     <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/linkedin.png" width="4%"/>
