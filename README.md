@@ -8,10 +8,12 @@
     <a href="https://github.com/WongSilver">
         <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/github.png" width="4%"/>
     </a>
-<!-- 
-    <a href="https://github.com/WongSilver">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="4%"/>
+    <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/transparent.png" width="3%"/>
+    <a href="https://weibo.com/u/5517189701">
+        <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/weibo.png" width="4%"/>
     </a>
+<!-- 
+   
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
     <a href="https://twitter.com/skalskip92">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="4%"/>
