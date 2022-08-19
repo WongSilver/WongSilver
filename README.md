@@ -4,7 +4,7 @@
 <h3 align="center">Java Engineer</h3>
 
 <br/>
-<!--
+<!-- 
 <div align="center">
     <a href="https://github.com/WongSilver">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="4%"/>
@@ -25,8 +25,8 @@
     <a href="https://medium.com/@piotr.skalski92">
         <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="4%" />
     </a>
-</div>
--->
+</div> -->
+
 <br/>
 
 ## <div align="center">open source</div>
