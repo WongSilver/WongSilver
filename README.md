@@ -13,9 +13,10 @@
         <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/weibo.png" width="4%"/>
     </a>    
     <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/transparent.png" width="3%"/>
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=snk_52R6kyUqcoBDCqGvL3tSB7DJjSxZ&noverify=0&personal_qrcode_source=3">
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=783244553&site=qq&menu=yes">
         <img src="https://github.com/WongSilver/WongSilver/blob/main/icons/QQ.png" width="4%"/>
     </a>
+    
 <!-- 
    
     <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
